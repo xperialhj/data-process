@@ -1,7 +1,7 @@
 //template.config({sTag: '<%', eTag: '#>'});
 //var tpl1 = '<div><%:=name#></div>';
 //console.log('<%#>:', template(tpl1, {name: '不一致也可以哦，更改tag<%#>'})); 
- 
+   
 //var tpl1 = '<div><%:=name#></div>';
 //console.log('<%#>:', template(tpl1, {name: '不一致也可以哦，更改tag<%#>'}));
 
